@@ -1,7 +1,7 @@
 body{
 	background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mysore_Palace_gate.jpg/1280px-Mysore_Palace_gate.jpg");
-    height: 100%; 
-  background-position: center;
+    height: 100vh; 
+  background-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
 }
